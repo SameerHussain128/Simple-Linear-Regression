@@ -1,0 +1,35 @@
+Step 1 : Importing Libraries
+Step 2 : Import Dataset
+Step 3 : EDA
+Step 4 : Dividing data into Independent Features and Dependent Features
+Step 5 : Train Test Split
+-> It will divide the data into Training and testing
+
+X_train and y_train = Training X and y variables data
+X_test  and y_test  = Testing  X and y variables data
+
+step 6 : Standardizing the dataset [Feature Scaling]
+Step 7 : Importing Algorithm
+
+-> Linear Regression
+
+-> Doing Cross Validation
+
+Cross validation is a technique used in machine learning to evaluate the performance of a model on unseen data. It involves dividing the available data into multiple folds or subsets, using one of these folds as a validation set, and training the model on the remaining folds.
+
+Step 8 : Prediction, R2 score
+Step 9 : Visualization by seaborn lib
+
+Step 10 : Applying Ridge and Lasso Regression Algorithm
+
+Ridge and Lasso Regression are regularization techniques used to prevent overfitting in linear regression models by adding a penalty term to the loss function.
+
+a) Ridge Regression Algorithm
+-> Importing GridSearchCV
+-> Prediction, R2 Score
+-> Visualization by seaborn lib
+
+b) Lasso Regression Algorithm
+-> Importing GridSearchCV
+-> Prediction, R2 Score
+-> Visualization by seaborn lib
